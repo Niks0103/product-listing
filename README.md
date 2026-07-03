@@ -36,3 +36,5 @@ Open http://localhost:3000
    This gives you a live link to put on your resume.
 6. **Add loading/error states** if you move to a real API — `loading.tsx` and `error.tsx` files
    are built into the App Router and are worth knowing.
+# product-listing
+Product listing using nextjs and typescript
